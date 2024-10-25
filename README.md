@@ -2,12 +2,6 @@
 
 Este repositório contém o código de um dashboard desenvolvido com **React** e estilizado com **Tailwind CSS**. O projeto foi criado para fornecer uma interface intuitiva e responsiva para exibir informações e dados de maneira prática e visualmente agradável.
 
-## 🔍 Demonstração
-
-<img src="path_to_image_dashboard" alt="Demonstração do Dashboard" width="800"/>
-
-> **Nota:** Insira uma captura de tela do dashboard para uma visualização inicial.
-
 ## 🚀 Tecnologias e Ferramentas
 
 - **React**: Biblioteca JavaScript para construção de interfaces de usuário.
@@ -41,7 +35,7 @@ Para executar o projeto localmente, siga estas etapas:
 
 ## 🌐 Deploy
 
-Visite o Dashboard:
+Visite o Dashboard: https://react-dashwind-admin-dashboard.vercel.app/login
 
 ## 📄 Licença
 
